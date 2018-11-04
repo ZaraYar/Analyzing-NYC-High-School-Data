@@ -18,3 +18,20 @@ School survey - Surveys of parents, teachers, and students at each school
 
 New York City has a significant immigrant population and is very diverse, so comparing demographic factors such as race, income, and gender with SAT scores is a good way to determine whether the SAT is a fair test. For example, if certain racial groups consistently perform better on the SAT, we would have some evidence that the SAT is unfair.
 
+Before we move into coding, we'll need to do some background research. A thorough understanding of the data will help us avoid costly mistakes, such as thinking that a column represents something other than what it does. Background research will also give us a better understanding of how to combine and analyze the data.
+
+In this case, we'll want to research:
+
+New York City
+The SAT
+Schools in New York City
+Our data
+We can learn a few different things from these resources. For example:
+
+Only high school students take the SAT, so we'll want to focus on high schools.
+New York City is made up of five boroughs, which are essentially distinct regions.
+New York City schools fall within several different school districts, each of which can contains dozens of schools.
+Our data sets include several different types of schools. We'll need to clean them so that we can focus on high schools only.
+Each school in New York City has a unique code called a DBN, or district borough number.
+Aggregating data by district will allow us to use the district mapping data to plot district-by-district differences.
+
