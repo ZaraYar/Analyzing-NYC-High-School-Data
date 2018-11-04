@@ -1,6 +1,5 @@
 # Analyzing-NYC-High-School-Data
-we are going to explore relationships between SAT scores and demographic factors in New York City public schools. For a brief bit of background, the SAT, or Scholastic Aptitude Test, is a test that high school seniors in the U.S. take every year. The SAT has three sections, each of which is worth a maximum of 800 points. Colleges use the SAT to determine which students to admit. High average SAT scores are usually indicative of a good school.
-
+we are going to explore relationships between SAT scores and demographic factors in New York City public schools. For a brief bit of background, the SAT, or Scholastic Aptitude Test, is a test that high school seniors in the U.S. take every year. The SAT has three sections, each of which is worth a maximum of 800 points. Colleges use the SAT to determine which students to admit. High average SAT scores are usually indicative of a good school. 
 New York City has published data on student SAT scores by high school, along with additional demographic data sets. We combine the following data sets into a single, clean pandas dataframe:
 
 SAT scores by school - SAT scores for each high school in New York City
