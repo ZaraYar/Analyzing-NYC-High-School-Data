@@ -4,6 +4,7 @@ we are going to explore relationships between SAT scores and demographic factors
 New York City has published data on student SAT scores by high school, along with additional demographic data sets. We combine the following data sets into a single, clean pandas dataframe:
 
 SAT scores by school - SAT scores for each high school in New York City
+
 School attendance - Attendance information for each school in New York City
 
 Class size - Information on class size for each school
